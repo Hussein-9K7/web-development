@@ -1,0 +1,58 @@
+I will Put All Info About The Git Orders Here ..
+
+15.01.2025 
+
+git --version
+
+git config --global user.name  "Name"
+git config --global user.email "Email"
+
+to be sure that there is a name and Email write this orders:
+
+git config --global user.name
+git config --global user.email
+
+
+git init 
+
+to remove the all git include the floders and files everything
+rm -rf
+
+to remove everything without git storege 
+rm -rg .git 
+
+
+we have to use cd to move to some file and to open the file 
+cd~ / path /path / path /path 
+
+to creat a new file 
+mkdir (file name)
+
+to move to the file or open it .. 
+cd (file name)
+
+git init  to creat a repostery 
+
+git stutus to check the gile situation
+
+ls to see the files in the folder
+
+exit to go out the git bash
+
+touch to add empty file 
+forexample
+
+touch name.txt
+touch name.html
+touch name,py 
+
+
+to delete a file inside git 
+rm file name.txt or py or js ...
+
+to open txt file and change or edit or write in it 
+nano name.txt 
+
+
+after all the changes press ctrl x 
+then yes then enter. 
